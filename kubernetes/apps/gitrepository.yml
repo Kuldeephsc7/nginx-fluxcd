@@ -7,6 +7,6 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/Kuldeephsc7/nginx-FluxCD
+  url: https://github.com/Kuldeephsc7/nginx-fluxcd
   secretRef:
     name: git-auth
